@@ -113,16 +113,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 ## Setup
 
-### MLflow Tracking
 
-We use MLflow to log and track our machine learning experiments. The MLFLOW_TRACKING_URI environment variable is set to the DagsHub repository's MLflow tracking URI.
-
-```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/HemaKalyan45/Heart-Disease-Prediction.mlflow
-
-export MLFLOW_TRACKING_USERNAME=HemaKalyan45
-
-export MLFLOW_TRACKING_PASSWORD=f3c9457eb0ff83244e93ac8ee651b80d4b35f07c
 ```
 
 ## Contributing
